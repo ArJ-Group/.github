@@ -5,7 +5,7 @@
 
 ---
 
-<h1 align="center" left="30px">Ariono&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Rajendra </h1>
+<h1 align="center" left="30px">Ariono&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Rajendra </h1>
 <p align="center"> 
 
 <img alt="github stats" height="140px" src="https://github-readme-streak-stats.herokuapp.com?user=ArionoS&theme=black-ice&hide_border=true&fire=DD2727&dates=DDCF49" />  
