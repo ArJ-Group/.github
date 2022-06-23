@@ -8,10 +8,11 @@
 <h1 align="center" left="30px">Ariono&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Rajendra </h1>
 <p align="center"> 
 
-<img alt="github stats" src="https://github-readme-streak-stats.herokuapp.com?user=ArionoS&theme=black-ice&hide_border=true&fire=DD2727&dates=DDCF49" />  
-<img alt="github stats" src="https://github-readme-streak-stats.herokuapp.com?user=Rjndrkha&theme=black-ice&hide_border=true&fire=DD2727&dates=DDCF49" />
-<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ArionoS&show_icons=true&theme=radical" />
-<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=Rjndrkha&show_icons=true&theme=radical" />
+<img alt="github stats" height="130px" src="https://github-readme-streak-stats.herokuapp.com?user=ArionoS&theme=black-ice&hide_border=true&fire=DD2727&dates=DDCF49" />  
+<img alt="github stats"  height="130px" src="https://github-readme-streak-stats.herokuapp.com?user=Rjndrkha&theme=black-ice&hide_border=true&fire=DD2727&dates=DDCF49" />
+  <br>
+<img alt="github stats"  height="130px" src="https://github-readme-stats.vercel.app/api?username=ArionoS&show_icons=true&theme=radical" />
+<img alt="github stats"  height="130px" src="https://github-readme-stats.vercel.app/api?username=Rjndrkha&show_icons=true&theme=radical" />
   
 </p>
 
